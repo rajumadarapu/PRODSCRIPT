@@ -1,4 +1,5 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "enter command"
 read cmd
 $cmd
